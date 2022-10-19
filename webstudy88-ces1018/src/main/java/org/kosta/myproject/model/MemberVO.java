@@ -11,7 +11,7 @@ public class MemberVO implements Serializable {
 	}
 	public MemberVO() {
 		super();
-		// TODO Auto-generated constructor stub
+
 	}
 	public String getId() {
 		return id;
